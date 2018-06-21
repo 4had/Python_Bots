@@ -2,7 +2,8 @@ from PIL import ImageGrab, ImageOps
 import pyautogui
 from time import sleep
 from numpy import *
-
+#THIS BOT IS USED FOR T-REX RUNNER GAME (http://www.trex-game.skipser.com/),
+#FOR SUCCESS USAGE CONFIGURE YOUR RESOLUTION IN THE CODE
 
 class Bot:
 
